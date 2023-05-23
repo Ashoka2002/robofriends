@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.27bec372.css",
+    "main.js": "/robofriends/static/js/main.85e181a2.js",
+    "index.html": "/robofriends/index.html",
+    "main.27bec372.css.map": "/robofriends/static/css/main.27bec372.css.map",
+    "main.85e181a2.js.map": "/robofriends/static/js/main.85e181a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27bec372.css",
+    "static/js/main.85e181a2.js"
+  ]
+}
